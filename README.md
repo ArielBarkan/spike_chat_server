@@ -4,7 +4,7 @@ This is the chat backend (NODE.JS > SOCKET.IO)
 
 The frontend is available at:
 
-https://github.com/ArielBarkan/TBD
+https://github.com/ArielBarkan/spike_chat_client
 
 A video of the chat working is available at:
 
